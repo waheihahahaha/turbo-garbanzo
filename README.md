@@ -13,3 +13,5 @@
 8. sudo ./cuda_... 安装驱动
 9. nvidia-smi 查看是否安装成功
 10. restart 重启电脑
+
+![image](https://user-images.githubusercontent.com/43951927/53478281-68992480-3ab1-11e9-994b-67b2410da110.png)
